@@ -1,1 +1,1 @@
-C:\Program Files\TortoiseGit\bin\TortoiseGitPlink.exe
+C:\Program Files\TortoiseGit\bin\TortoiseGitPlink.exe aaa
